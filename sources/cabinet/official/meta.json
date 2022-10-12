@@ -1,0 +1,23 @@
+{
+    "jurisdiction": {
+        "name": "Cabo Verde",
+        "id": "Q1011"
+    },
+    "cabinet": {
+      "id": "Q114611526",
+      "start": "2021-05-20",
+      "parent": "Q28454131"
+    },
+    "reference": {
+        "P854":   "https://www.governo.cv/governo/ministerios/",
+        "P1476": {
+            "text": "Governo De Cabo Verde",
+            "language": "pt"
+        }
+    },
+    "current_only": "true",
+    "lang": "pt",
+    "person_description": {
+        "en": "politician in Cape Verde"
+    }
+}
