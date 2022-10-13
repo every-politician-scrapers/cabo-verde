@@ -1,0 +1,132 @@
+{
+  "title": "Gilberto Correia Carvalho Silva",
+  "pageID": 68874923,
+  "categories": [
+    "Living people",
+    "Cape Verdean politicians",
+    "Year of birth missing (living people)",
+    "Agriculture ministers of Cape Verde"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Gilberto Correia Carvalho Silva is a Cape Verdean Microbiologist and Doctor in Applied Ecology and Landscape who served as the Minister of Agriculture and Environment during the 9th Cape Verdean parliament.",
+              "links": [
+                {
+                  "text": "Cape Verdean",
+                  "type": "internal",
+                  "page": "Cape Verdean Creole"
+                },
+                {
+                  "text": "Applied Ecology",
+                  "type": "internal",
+                  "page": "Applied ecology"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Gilberto Correia Carvalho Silva"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Cape Verdean ministers",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "title": "O Governo assina contrato de concessão do serviço de gestão e exploração de água com a AdR",
+          "url": "https://expressodasilhas.cv/pais/2021/09/22/o-governo-assina-contrato-de-concessao-do-servico-de-gestao-e-exploracao-de-agua-com-a-adr/76710",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "FAO Director-General and Minister for Agriculture and Environment of Cabo Verde discuss drought mitigation",
+          "url": "http://www.fao.org/director-general/news/news-article/en/c/1239187/",
+          "access-date": "2021-10-03",
+          "website": "www.fao.org",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2020-11-24",
+          "title": "Minister of the Environment delivers to Parliament a White Book on the environment in Cabo Verde {{!}} INFORPRESS",
+          "url": "https://inforpress.cv/minister-of-the-environment-delivers-to-parliament-a-white-book-on-the-environment-in-cabo-verde/",
+          "access-date": "2021-10-03",
+          "language": "en-GB",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Ministro da Agricultura e Ambiente",
+          "url": "https://www.governo.cv/governo/ministerios/ministro-da-agricultura-e-ambiente/",
+          "access-date": "2021-10-03",
+          "website": "Governo de Cabo Verde",
+          "language": "pt-br",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Silva was the Councilor for the Environment and Sanitation and Civil Protection at the Praia Municipal Council and was President of the Board of Directors of the Water Distribution Agency and served as National Consultant to FAO.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Praia"
+                }
+              ]
+            },
+            {
+              "text": "He was a member of the Consultative Committee of the Santa Luzia Natural Reserve and Senior Technician in Parasitology and Bacteriology in the Livestock Development Center laboratory and a Senior Technician at the National Institute of Fisheries Research.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Parasitology"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bacteriology"
+                }
+              ]
+            },
+            {
+              "text": "He served as Minister of Agriculture and Environment during the 9th session of the parliament of Cape Verde."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "capeverde-politician-stub"
+        }
+      ]
+    }
+  ]
+}

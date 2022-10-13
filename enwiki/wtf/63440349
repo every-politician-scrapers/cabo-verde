@@ -1,0 +1,164 @@
+{
+  "title": "Olavo Correia",
+  "pageID": 63440349,
+  "categories": [
+    "Living people",
+    "Finance ministers of Cape Verde",
+    "Cape Verdean bankers",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Dr. Olavo Avelino Garcia Correia commonly known as Olavo Correia, is a Cape Verdean politician.",
+              "links": [
+                {
+                  "text": "Cape Verdean",
+                  "type": "internal",
+                  "page": "Cape Verde"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Dr. Olavo Avelino Garcia Correia",
+                  "Olavo Correia"
+                ]
+              }
+            },
+            {
+              "text": "He currently serves as the deputy prime minister, and Minister of Finance of Cape Verde since May 2016.",
+              "links": [
+                {
+                  "text": "Minister of Finance",
+                  "type": "internal",
+                  "page": "List of Ministers of Finance of Cape Verde"
+                },
+                {
+                  "type": "internal",
+                  "page": "Cape Verde"
+                }
+              ]
+            },
+            {
+              "text": "He was the governor of Bank of Cape Verde from 1999 to 2004.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bank of Cape Verde"
+                }
+              ]
+            },
+            {
+              "text": "In April 2022, Olavo Avelino Garcia Correia was named head of the board of governors of the ECOWAS Bank for Investment and Development (EBID)."
+            },
+            {
+              "text": "It was at the end of the 20th ordinary general meeting of the board of governors held in Lomé that this appointment was made."
+            },
+            {
+              "text": "He replaces in this post the Minister of Economy and Finance of Benin Romuald Wadagni.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Romuald Wadagni"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Cape Verdean politician",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "url": "http://africahealthforum.afro.who.int/speaker/dr-olavo-avelino-garcia-correia/",
+          "title": "Dr Olavo Avelino Garcia Correia – Second Africa Health Forum",
+          "language": "en-GB",
+          "access-date": "2020-03-22",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.faapa.info/en/2019/11/23/olavo-correia-guarantees-that-the-state-budget-for-2020-is-geared-towards-people-and-creating-opportunities/",
+          "title": "Olavo Correia guarantees that the State Budget for 2020 is geared towards people and creating opportunities – FAAPA ENG",
+          "last": "FAAPA",
+          "language": "en",
+          "access-date": "2020-03-22",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.inforpress.cv/en/olavo-correia-rated-the-evaluation-made-by-standard-poors-very-positive/",
+          "title": "Olavo Correia rated the evaluation made by Standard & Poor’s \"very positive\" – Inforpress",
+          "language": "en-GB",
+          "access-date": "2020-03-22",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.governo.cv/",
+          "title": "Página Oficial do Governo de Cabo Verde",
+          "website": "Governo de Cabo Verde",
+          "language": "pt-br",
+          "access-date": "2020-03-22",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://noticias.sapo.cv/economia/artigos/olavo-correia-classificou-de-muito-positivo-a-avaliacao-feita-pela-standard-poors",
+          "title": "Olavo Correia classificou de \"muito positivo\" a avaliação feita pela Standard & Poor’s",
+          "last": "SAPO",
+          "website": "SAPO Notícias",
+          "language": "pt",
+          "access-date": "2020-03-22",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.financeuncovered.org/tag/olavo-correia/",
+          "title": "Olavo Correia Archives",
+          "website": "Finance Uncovered",
+          "language": "en-GB",
+          "access-date": "2020-03-22",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "capeverde-politician-stub"
+        }
+      ]
+    }
+  ]
+}

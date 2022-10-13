@@ -1,0 +1,135 @@
+{
+  "title": "Arlindo do Rosário",
+  "pageID": 68874978,
+  "categories": [
+    "Living people",
+    "1961 births",
+    "Cape Verdean politicians",
+    "NOVA University Lisbon alumni",
+    "Health ministers of Cape Verde"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Arlindo Nascimento do Rosário (born 9 December 1961) is a Cape Verdean physician currently serving as the Minister of Health and Social Security.",
+              "links": [
+                {
+                  "text": "Cape Verdean",
+                  "type": "internal",
+                  "page": "Cape Verdean Creole"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Arlindo Nascimento do Rosário"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Cape Verdean politicians",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "title": "Arlindo do Rosário inaugura centro de virologia da Delegacia de Saúde de São Vicente",
+          "url": "https://expressodasilhas.cv/pais/2021/09/06/arlindo-do-rosario-inaugura-centro-de-virologia-da-delegacia-de-saude-de-sao-vicente/76486",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "2020-03-17",
+          "title": "Ministro da Saúde e da Segurança Social, Arlindo do Rosário efetua visita ao Laboratório de Virologia",
+          "url": "https://www.governo.cv/ministro-da-saude-e-da-seguranca-social-arlindo-do-rosario-efetua-visita-ao-laboratorio-de-virologia/",
+          "access-date": "2021-10-03",
+          "website": "Governo de Cabo Verde",
+          "language": "pt-br",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Dr Arlindo Nascimento do Rosário – Second Africa Health Forum",
+          "url": "http://africahealthforum.afro.who.int/speaker/dr-arlindo-nascimento-do-rosario/",
+          "access-date": "2021-10-03",
+          "language": "en-GB",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Arlindo Nascimento do Rosário / Personalidades / Identidade / Início - CABO VERDE info",
+          "url": "http://www.caboverde-info.com/Identidade/Personalidades/Arlindo-Nascimento-do-Rosario",
+          "access-date": "2021-10-03",
+          "website": "www.caboverde-info.com",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Background and education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Rosário was born in Sal Island."
+            },
+            {
+              "text": "He earned a bachelor’s degree in Medicine at the Universidade Nova de Lisboa, Portugal and General Pediatrics from the Escola Paulista de Medicina, São Paulo-Brazil.",
+              "links": [
+                {
+                  "text": "Universidade Nova de Lisboa",
+                  "type": "internal",
+                  "page": "NOVA University Lisbon"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He began his medical career at the Ribeira Grande Health Police Station where he worked from 1989 to 1994 and transferred to Santo Antão Regional Hospital as Pediatrician in 1997."
+            },
+            {
+              "text": "He was the President of the Discipline Council of the Order of the Doctors of Cabo Verde and served as Health Delegate and Director of the Regional Hospital of Santo Antão, from 2001 to 2011 before being appointed into the National Medicines Commission."
+            },
+            {
+              "text": "He is the current Minister of Health and Social Security."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "capeverde-politician-stub"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "title": "Rui Alberto de Figueiredo Soares",
+  "pageID": 13977905,
+  "categories": [
+    "1956 births",
+    "Living people",
+    "Members of the National Assembly (Cape Verde)",
+    "Foreign ministers of Cape Verde",
+    "Movement for Democracy (Cape Verde) politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Rui Alberto de Figueiredo Soares (born 1956) is a Cape Verdean politician.",
+              "links": [
+                {
+                  "text": "Cape Verdean",
+                  "type": "internal",
+                  "page": "Cape Verde"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Rui Alberto de Figueiredo Soares"
+                ]
+              }
+            },
+            {
+              "text": "Figueiredo Soares served as foreign minister of Cape Verde under President António Mascarenhas Monteiro from 12 August 1999 – 2002.",
+              "links": [
+                {
+                  "text": "President",
+                  "type": "internal",
+                  "page": "Heads of State of Cape Verde"
+                },
+                {
+                  "type": "internal",
+                  "page": "António Mascarenhas Monteiro"
+                }
+              ]
+            },
+            {
+              "text": "He was elected to the National Assembly from São Vicente under the Movement for Democracy in the 2006 parliamentary election.",
+              "links": [
+                {
+                  "text": "National Assembly",
+                  "type": "internal",
+                  "page": "National Assembly of Cape Verde"
+                },
+                {
+                  "text": "São Vicente",
+                  "type": "internal",
+                  "page": "São Vicente, Cape Verde"
+                },
+                {
+                  "text": "Movement for Democracy",
+                  "type": "internal",
+                  "page": "Movement for Democracy (Cape Verde)"
+                },
+                {
+                  "text": "2006 parliamentary election",
+                  "type": "internal",
+                  "page": "2006 Cape Verdean parliamentary election"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Cabo_Verde_Joins_Four_Key_WIPO_Treaties.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Cabo_Verde_Joins_Four_Key_WIPO_Treaties.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Cabo_Verde_Joins_Four_Key_WIPO_Treaties.jpg",
+          "caption": "Rui Alberto de Figueiredo Soares, Cabo Verde's Minister of Foreign Affairs, Cooperation and Regional Integration in April 2022",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "description": "Cape Verdean politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "1956"
+          ],
+          "template": "birth year"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Rui Alberto de Figueiredo Soares"
+          },
+          "office1": {
+            "text": "Minister of Foreign Affairs",
+            "links": [
+              {
+                "text": "Minister of Foreign Affairs",
+                "type": "internal",
+                "page": "Minister of Foreign Affairs (Cape Verde)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "1999",
+            "number": 1999
+          },
+          "term_end1": {
+            "text": "2002",
+            "number": 2002
+          },
+          "predecessor1": {
+            "text": "José Luís de Jesus",
+            "links": [
+              {
+                "type": "internal",
+                "page": "José Luís de Jesus"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Manuel Inocêncio Sousa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Manuel Inocêncio Sousa"
+              }
+            ]
+          },
+          "president1": {
+            "text": "António Mascarenhas Monteiro\nPedro Pires",
+            "links": [
+              {
+                "type": "internal",
+                "page": "António Mascarenhas Monteiro"
+              },
+              {
+                "type": "internal",
+                "page": "Pedro Pires"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Politician",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Politician"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "title": "Foreign Minister of Cape Verde",
+          "years": "1999–2002",
+          "before": "José Luís de Jesus",
+          "after": "Manuel Inocêncio Sousa",
+          "template": "succession box"
+        },
+        {
+          "template": "capeverde-politician-stub"
+        }
+      ]
+    }
+  ]
+}
