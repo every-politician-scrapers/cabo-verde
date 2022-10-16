@@ -87,10 +87,8 @@
           "template": "short description"
         },
         {
-          "list": [
-            "1956"
-          ],
-          "template": "birth year"
+          "birth_year": "1956",
+          "template": "birth year and age"
         }
       ],
       "infoboxes": [
@@ -146,6 +144,9 @@
                 "page": "Pedro Pires"
               }
             ]
+          },
+          "birth_date": {
+            "text": "1956 (age 66)"
           },
           "occupation": {
             "text": "Politician",
