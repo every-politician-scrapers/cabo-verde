@@ -14,7 +14,7 @@ class MemberList
     end
 
     field :position do
-      noko.css('h3').first.text.split(/, (?=Ministro)/).map(&:tidy)
+      noko.css('h3').first.text.split(/(?:,| e) (?=Ministr[ao])/).map(&:tidy)
     end
   end
 
