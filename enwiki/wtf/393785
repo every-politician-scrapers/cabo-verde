@@ -74,11 +74,6 @@
           "template": "use dmy dates"
         },
         {
-          "first": "Pereira",
-          "second": "Neves",
-          "template": "portuguese name"
-        },
-        {
           "year": "1960",
           "month": "3",
           "day": "28",
