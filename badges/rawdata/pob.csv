@@ -1,0 +1,34 @@
+item,itemLabel,rank,pob,pobLabel,hasCountry,hasAdmin,hasref,refitem,exurl,wmurl,wmproj
+Q107431,Pedro Pires,NormalRank,Q6430079,São Filipe,true,true,false,,,,
+Q108292440,Jorge Tolentino,,,,,,false,,,,
+Q108745687,Fernando Elísio Freire,,,,,,false,,,,
+Q108782678,Gilberto Correia Carvalho Silva,,,,,,false,,,,
+Q108782778,Arlindo Nascimento do Rosário,,,,,,false,,,,
+Q111732093,Joana Rosa,NormalRank,Q7061905,Nossa Senhora da Luz,true,false,false,,,,
+Q111732093,Joana Rosa,NormalRank,Q492551,Maio,true,true,false,,,,
+Q111732093,Joana Rosa,NormalRank,Q1011,Cape Verde,true,false,false,,,,
+Q114612805,Abraão Aníbal Barbosa Vicente,,,,,,false,,,,
+Q114612806,Alexandre Dias Monteiro,,,,,,false,,,,
+Q114612807,Amadeu Cruz,,,,,,false,,,,
+Q114612809,Carlos Jorge Duarte Santos,,,,,,false,,,,
+Q114612811,Carlos Monteiro,,,,,,false,,,,
+Q114612812,Edna Manuela Miranda de Oliveira,,,,,,false,,,,
+Q114612813,Filomena Mendes Gonçalves,,,,,,false,,,,
+Q114612814,Janine Tatiana Santos Lélis,,,,,,false,,,,
+Q114612816,Jorge Santos,,,,,,false,,,,
+Q114612818,Paulo Augusto Costa Rocha,,,,,,false,,,,
+Q16269557,Cristina Fontes Lima,NormalRank,Q3751,Praia,true,true,true,false,false,true,true
+Q23899522,Ulisses Correia e Silva,NormalRank,Q3751,Praia,true,true,false,,,,
+Q29158211,Luís António Gomes Alves,,,,,,false,,,,
+Q29158764,Emanuel Jesus Correia Lopes,,,,,,false,,,,
+Q3183797,Jorge Borges,NormalRank,Q112031,São Vicente,true,true,true,false,false,true,true
+Q3268211,Luís de Matos Monteiro da Fonseca,NormalRank,Q768314,Ponta do Sol,true,true,false,,,,
+Q336265,Antonio Mascarenhas Monteiro,NormalRank,Q7322293,Ribeira da Barca,true,true,true,false,true,false,false
+Q45965970,Eunice Silva,,,,,,false,,,,
+Q500378,Carlos Veiga,NormalRank,Q495547,Mindelo,true,true,true,false,false,false,true
+Q500385,Gualberto do Rosário,NormalRank,Q495547,Mindelo,true,true,true,false,false,false,true
+Q7378692,Rui Alberto de Figueiredo Soares,,,,,,false,,,,
+Q88247927,Olavo Correia,,,,,,false,,,,
+Q57517,Jorge Carlos Fonseca,NormalRank,Q495547,Mindelo,true,true,true,false,false,false,true
+Q57649,José Maria Neves,NormalRank,Q494882,Santa Catarina,true,true,true,false,false,false,true
+Q58252,José Brito,NormalRank,Q3718,Dakar,true,true,false,,,,
