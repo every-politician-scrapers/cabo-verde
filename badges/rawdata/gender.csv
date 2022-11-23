@@ -1,6 +1,6 @@
 item,rank,gender,isIdentity,hasref,refitem,exurl,wmurl,wmproj
 Q107431,NormalRank,Q6581097,true,true,false,false,false,true
-Q108292440,,,,false,,,,
+Q108292440,NormalRank,Q6581097,true,false,,,,
 Q108745687,NormalRank,Q6581097,true,true,false,false,false,true
 Q108782678,NormalRank,Q6581097,true,true,false,false,false,true
 Q108782778,NormalRank,Q6581097,true,true,false,false,false,true
@@ -20,12 +20,16 @@ Q23899522,NormalRank,Q6581097,true,false,,,,
 Q29158211,NormalRank,Q6581097,true,false,,,,
 Q29158764,NormalRank,Q6581097,true,false,,,,
 Q3183797,NormalRank,Q6581097,true,false,,,,
+Q3195582,NormalRank,Q6581072,true,false,,,,
 Q3268211,NormalRank,Q6581097,true,false,,,,
 Q336265,NormalRank,Q6581097,true,true,true,false,false,false
+Q3564444,NormalRank,Q6581097,true,false,,,,
+Q3743498,NormalRank,Q6581097,true,false,,,,
 Q45965970,NormalRank,Q6581072,true,false,,,,
 Q500378,NormalRank,Q6581097,true,true,false,false,false,true
 Q500378,NormalRank,Q6581097,true,true,true,false,false,false
 Q500385,NormalRank,Q6581097,true,true,false,false,false,true
+Q55098157,NormalRank,Q6581097,true,false,,,,
 Q7378692,NormalRank,Q6581097,true,false,,,,
 Q88247927,NormalRank,Q6581097,true,true,false,false,false,true
 Q57517,NormalRank,Q6581097,true,true,true,false,false,false
