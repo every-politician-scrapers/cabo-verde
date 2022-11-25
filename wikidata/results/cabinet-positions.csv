@@ -1,25 +1,25 @@
-item,itemLabel,ministry,ministryLabel,country,jurisdiction,began,ended
-Q114611325,Deputy Prime Minister of Cape Verde,,,Q1011,Q1011,,
-Q63642377,Governor of Cape Verde,,,Q45,Q3023340,,
-Q112034425,Health Minister of Cape Verde,,,Q1011,,,
-Q114612708,"Minister for Family, Inclusion and Social Development",,,Q1011,Q1011,,
-Q114612673,Minister of Agriculture and the Environment of Cape Verde,,,Q1011,Q1011,,
-Q114612700,Minister of Communities of Cape Verde,,,Q1011,Q1011,,
-Q114612561,Minister of Culture,Q25445154,Ministry of Culture,,Q1011,,
-Q114612681,Minister of Education of Cape Verde,,,Q1011,Q1011,,
-Q114612948,Minister of Finance of Cape Verde,,,Q1011,Q1011,,
-Q18204364,Minister of Foreign Affairs,,,Q1011,Q1011,,
-Q114612692,"Minister of Industry, Commerce and Energy of Cape Verde",,,Q1011,Q1011,,
-Q114612653,Minister of Infrastructure of Cape Verde,,,Q1011,Q1011,,
-Q114612566,Minister of Internal Affairs,Q30261948,Ministry of Internal Affairs,,Q1011,,
-Q114612567,Minister of Justice of Cape Verde,Q55648322,Ministry of Justice of Cape Verde,,Q1011,,
-Q114612573,Minister of National Defense,Q18597544,Ministry of National Defense,Q1011,Q1011,,
-Q114612599,Minister of State Modernization and Public Administration,,,Q1011,Q1011,,
-Q114927485,Minister of Territorial Cohesion,,,Q1011,Q1011,,
-Q114612717,Minister of Tourism and Transport of Cape Verde,,,Q1011,Q1011,,
-Q114612664,Minister of Youth and Sport Cape Verde,,,Q1011,Q1011,,
-Q114927548,Minister of the Digital Economy,,,Q1011,Q1011,,
-Q114612618,Minister of the Presidency of the Council of Ministers,,,Q1011,Q1011,,
-Q114927464,Minister of the Sea,,,Q1011,Q1011,,
-Q19058382,President of Cape Verde,,,Q1011,Q1011,1975,
-Q30100568,Prime Minister of Cape Verde,,,Q1011,Q1011,1975,
+item,itemLabel,ministry,ministryLabel,country,jurisdiction,began,ended,holders
+Q114611325,Deputy Prime Minister of Cape Verde,,,Q1011,Q1011,,,2
+Q63642377,Governor of Cape Verde,,,Q45,Q3023340,,,2
+Q112034425,Health Minister of Cape Verde,,,Q1011,,,,3
+Q114612708,"Minister for Family, Inclusion and Social Development",,,Q1011,Q1011,,,1
+Q114612673,Minister of Agriculture and the Environment of Cape Verde,,,Q1011,Q1011,,,1
+Q114612700,Minister of Communities of Cape Verde,,,Q1011,Q1011,,,1
+Q114612561,Minister of Culture,Q25445154,Ministry of Culture,,Q1011,,,1
+Q114612681,Minister of Education of Cape Verde,,,Q1011,Q1011,,,1
+Q114612948,Minister of Finance of Cape Verde,,,Q1011,Q1011,,,2
+Q18204364,Minister of Foreign Affairs,,,Q1011,Q1011,,,10
+Q114612692,"Minister of Industry, Commerce and Energy of Cape Verde",,,Q1011,Q1011,,,1
+Q114612653,Minister of Infrastructure of Cape Verde,,,Q1011,Q1011,,,1
+Q114612566,Minister of Internal Affairs,Q30261948,Ministry of Internal Affairs,,Q1011,,,1
+Q114612567,Minister of Justice of Cape Verde,Q55648322,Ministry of Justice of Cape Verde,,Q1011,,,1
+Q114612573,Minister of National Defense,Q18597544,Ministry of National Defense,Q1011,Q1011,,,2
+Q114612599,Minister of State Modernization and Public Administration,,,Q1011,Q1011,,,1
+Q114927485,Minister of Territorial Cohesion,,,Q1011,Q1011,,,1
+Q114612717,Minister of Tourism and Transport of Cape Verde,,,Q1011,Q1011,,,1
+Q114612664,Minister of Youth and Sport Cape Verde,,,Q1011,Q1011,,,1
+Q114927548,Minister of the Digital Economy,,,Q1011,Q1011,,,1
+Q114612618,Minister of the Presidency of the Council of Ministers,,,Q1011,Q1011,,,2
+Q114927464,Minister of the Sea,,,Q1011,Q1011,,,1
+Q19058382,President of Cape Verde,,,Q1011,Q1011,1975,,5
+Q30100568,Prime Minister of Cape Verde,,,Q1011,Q1011,1975,,5
