@@ -1,4 +1,4 @@
 ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
-,Q21512847,José Maria Neves Cabinet,,,,,,,,,,,Q25387765,First Ulisses Correia e Silva Cabinet,,,,
+,Q21512847,José Maria Neves Cabinet,2014-01-01,9,,,2016-01-01,9,,,,,Q25387765,First Ulisses Correia e Silva Cabinet,,,,
 ,Q25387765,First Ulisses Correia e Silva Cabinet,2016-01-01,9,,,2021-01-01,9,,,Q21512847,José Maria Neves Cabinet,,,,,,
 ,Q114611526,Second Ulisses Correia e Silva Cabinet,2021-05-20,11,,,,,,,Q25387765,First Ulisses Correia e Silva Cabinet,,,,,,
