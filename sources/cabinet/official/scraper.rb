@@ -26,4 +26,4 @@ class MemberList
 end
 
 dir = Pathname.new 'mirror/'
-puts EveryPoliticianScraper::FileData.new(dir.children).csv
+puts EveryPoliticianScraper::FileData.new(dir.children.sort).csv
