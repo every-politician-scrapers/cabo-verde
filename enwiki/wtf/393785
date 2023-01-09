@@ -212,10 +212,19 @@
                 "page": "Fundação Getulio Vargas"
               }
             ]
+          },
+          "spouse": {
+            "text": "Débora Katisa Carvalho"
           }
         }
       ],
       "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
         {
           "last1": "Rodrigues",
           "first1": "Julio",
